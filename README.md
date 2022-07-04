@@ -1,7 +1,7 @@
 # proyecto3Mern
 
 ## Project Title: 
-Bacogemos 2.0 o Restaurante ComeTe laentera (Por definir)
+Bacogemos 2.0 , FullStack version
 
 ## Description/Motivation: 
 Este proyecto nos ayuda a aplicar todo lo aprendido durante el curso de MERN FullStack development; por lo que vale la pena darle una vuelta a cada tema que hemos tocado, desde el front, middle y back-end.
